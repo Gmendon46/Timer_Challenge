@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Timer_Challenge/static/css/main.19e221c4.css",
+    "main.js": "/Timer_Challenge/static/js/main.5ec55472.js",
+    "static/js/787.2a7401c4.chunk.js": "/Timer_Challenge/static/js/787.2a7401c4.chunk.js",
+    "index.html": "/Timer_Challenge/index.html",
+    "main.19e221c4.css.map": "/Timer_Challenge/static/css/main.19e221c4.css.map",
+    "main.5ec55472.js.map": "/Timer_Challenge/static/js/main.5ec55472.js.map",
+    "787.2a7401c4.chunk.js.map": "/Timer_Challenge/static/js/787.2a7401c4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e221c4.css",
+    "static/js/main.5ec55472.js"
+  ]
+}
